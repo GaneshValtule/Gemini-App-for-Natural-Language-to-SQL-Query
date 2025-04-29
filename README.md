@@ -43,10 +43,3 @@ The sales dataset is stored in a **SQLite** database with the following schema:
 - Identify top-selling products or high-spending customers
 
 ---
-
-## 🖥️ App Demo
-> *(Add screenshots or screen recording if available)*
-
----
-
-Would you like me to include sections for installation steps or examples of natural language queries too?
