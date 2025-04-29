@@ -1,0 +1,1 @@
+# Gemini-App-for-Natural-Language-to-SQL-Query
